@@ -1,18 +1,11 @@
 #include <stdio.h>
 int main(){
-    int a = 2, b = 1;
-    a += b;
-    printf("%d\n", a);
-    a -= b;
-    printf("%d\n", a);
-    a *= b;
-    printf("%d\n", a);
-    a /= b;
-    printf("%d\n", a);
-    a %= b;
-    printf("%d\n", a);
-    a++;
-    printf("%d\n", a);
-    a/=b--;
-    printf("%d\n", a);
+    int a, b;
+    scanf("%d %d", &a, &b);
+    printf("a + b 等於 %d\n", a + b);
+    printf("a - b 等於 %d\n", a - b);
+    printf("a * b 等於 %d\n", a * b);
+    printf("a / b 等於 %d\n", a / b);
+    printf("a %% b 等於 %d\n", a % b);
+    printf("把 a 取負數：%d", -a);
 }
