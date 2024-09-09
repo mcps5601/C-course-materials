@@ -4,8 +4,8 @@ This repository is the course materials for *Computer Programming* at National C
 ## Course Information
 | Week | Theme | Code | Slide |
 | -------- | -------- | --- | --- |
-|1| 	Chapter 01: Course Rules and C Basics | [`Folder`](./01-basics)
-|2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) |
+|1| 	Chapter 01: Course Rules and C Basics | [`Folder`](./01-basics) | [Slide1](./slides/intro.pdf) [Slide2](./slides/c_basics.pdf) |
+|2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) | |
 |3| 	Chapter 03: Program Control (1)| [`Folder`](./03-Program_control) |
 |4|     Chapter 03: Program Control (2)| [`Folder1`](./03-Program_control_for) [`Folder2`](./03-Program_control_while) |
 |5| 	Midterm Exam (1)
@@ -19,6 +19,6 @@ This repository is the course materials for *Computer Programming* at National C
 |13| 	Chapter 07: Strings (2)
 |14| 	Chapter 08: Structures
 |15| 	Chapter 09: Memory Management
-|16| 	Chapter 10: File I/O
-|17| 	Chapter 11: C++
-|18| 	Final Exam
+|16| 	Final Exam
+|17| 	Chapter 10: File I/O
+|18| 	Chapter 11: C++
