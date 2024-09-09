@@ -4,7 +4,7 @@ This repository is the course materials for *Computer Programming* at National C
 ## Course Information
 | Week | Theme | Code | Slide |
 | -------- | -------- | --- | --- |
-|1| 	Chapter 01: Course Rules and C Basics | [`Folder`](./01-basics) | [Slide1](./slides/intro.pdf) [Slide2](./slides/c_basics.pdf) |
+|1| 	Chapter 01: Course Rules and C Basics | [`Folder`](./01-basics) | [`Slide1`](./slides/intro.pdf) [`Slide2`](./slides/c_basics.pdf) |
 |2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) | |
 |3| 	Chapter 03: Program Control (1)| [`Folder`](./03-Program_control) |
 |4|     Chapter 03: Program Control (2)| [`Folder1`](./03-Program_control_for) [`Folder2`](./03-Program_control_while) |
