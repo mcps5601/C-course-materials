@@ -2,10 +2,10 @@
 This repository is the course materials for *Computer Programming* at National Chung Hsing University, in the academic year 113.
 
 ## Course Information
-| Week | Theme | Code | Slide |
-| -------- | -------- | --- | --- |
+| Week | Theme | Code | Slide | Slido |
+| -------- | -------- | --- | --- | --- |
 |1| 	Chapter 01: Course Rules and C Basics | [`Folder`](./01-basics) | [`Slide1`](./slides/intro.pdf) [`Slide2`](./slides/c_basics.pdf) |
-|2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) | |
+|2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) | `Slide` `Quiz` | [`Slido`](https://app.sli.do/event/2ZAKNJ9yG6sa6Gz6ZH7vkT) |
 |3| 	Chapter 03: Program Control (1)| [`Folder`](./03-Program_control) |
 |4|     Chapter 03: Program Control (2)| [`Folder1`](./03-Program_control_for) [`Folder2`](./03-Program_control_while) |
 |5| 	Midterm Exam (1)
