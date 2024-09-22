@@ -5,8 +5,8 @@ This repository is the course materials for *Computer Programming* at National C
 | Week | Theme | Code | Slide | Slido |
 | -------- | -------- | --- | --- | --- |
 |1| 	Chapter 01: Course Rules and C Basics | [`Folder`](./01-basics) | [`Slide1`](./slides/intro.pdf) [`Slide2`](./slides/c_basics.pdf) [`SUP`](./slides/c_basics_sup.pdf)|
-|2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) | [`Slide`](./slides/data_types_op.pdf) [`Quiz`](Quizzes/w2.md) | [`Slido`](https://app.sli.do/event/2ZAKNJ9yG6sa6Gz6ZH7vkT) |
-|3| 	Chapter 03: Program Control (1)| [`Folder`](./03-Program_control) |
+|2| 	Chapter 02: Data Types and Operators | [`Folder`](./02-data-types) | [`Slide`](./slides/data_types_op.pdf) [`SUP`](./slides/data_types_op_sup.pdf) [`Quiz`](Quizzes/w2.md) | [`Slido`](https://app.sli.do/event/2ZAKNJ9yG6sa6Gz6ZH7vkT) |
+|3| 	Chapter 03: Program Control (1)| [`Folder`](./03-Program_control) | [`Slide`](./slides/control_1.pdf) `Quiz` | [`Slido`](https://app.sli.do/event/f2mntYzC21o6hhzJJasQG5)  |
 |4|     Chapter 03: Program Control (2)| [`Folder1`](./03-Program_control_for) [`Folder2`](./03-Program_control_while) |
 |5| 	Midterm Exam (1)
 |6| 	Chapter 04: Arrays
