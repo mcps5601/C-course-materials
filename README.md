@@ -9,7 +9,7 @@ This repository is the course materials for *Computer Programming* at National C
 |3| 	Chapter 03: Program Control (1)| [`Folder`](./03-Program_control) | [`Slide`](./slides/control_1.pdf) [`Quiz`](quizzes/w3.md) | [`Slido`](https://app.sli.do/event/f2mntYzC21o6hhzJJasQG5)  |
 |4|     Chapter 03: Program Control (2)| [`Folder1`](./03-Program_control_for) [`Folder2`](./03-Program_control_while) |
 |5| 	Midterm Exam (1)
-|6| 	Chapter 04: Arrays
+|6| 	Chapter 04: Arrays | [`Folder`](./04-Arrays) | | |
 |7| 	Chapter 05: Functions (1)
 |8| 	Chapter 05: Functions (2)
 |9|     Chapter 06: Pointers (1)
