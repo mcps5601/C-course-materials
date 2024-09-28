@@ -22,3 +22,11 @@ This repository is the course materials for *Computer Programming* at National C
 |16| 	Final Exam
 |17| 	Chapter 10: File I/O
 |18| 	Chapter 11: C++
+
+## Assignments
+| Week | Topic | Description | Due Date |
+| ---- | ---- | -------- | ----------- |
+| 3 | 出國天數計算器 | [Assignment 1](./assignments/assignment1.pdf) | 2024/10/13 23:59|
+
+## Syllabus
+![syllabus](./slides/syllabus.png)
