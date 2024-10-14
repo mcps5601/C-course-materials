@@ -1,7 +1,7 @@
+#include <stdio.h>
 int main(){
     int unsorted[5] = {26, 5, 81, 7, 63};
     int temp = 0;
-
     // start bubble sort
     for (int i = 1; i < 5; i++){
         for (int j = 0; j < 5 - i; j++){
@@ -14,6 +14,9 @@ int main(){
         }
     }
     for (int i = 0; i < 5; i++){
-        printf("%d\n", unsorted[i]);
+        if (i == 0)
+            printf("%d", unsorted[i]);
+        else
+            printf(" %d", unsorted[i]);
     }
 }
