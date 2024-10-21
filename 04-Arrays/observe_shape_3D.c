@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(){
     int score[3][2][4] = {
         {
