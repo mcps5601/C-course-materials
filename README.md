@@ -11,7 +11,7 @@ This repository is the course materials for *Computer Programming* at National C
 |5| 	Midterm Exam (1)
 |6| 	Chapter 04: Arrays | [`Folder`](./04-Arrays) | [`Slide`](slides/arrays.pdf) | [`Quiz`](quizzes/w6.md) [`Ans`](quizzes/w6_ans.c)| [`Slido`](https://app.sli.do/event/sToe6xX3QcD3W8fwZ3qeZb) |
 |7| 	Chapter 05: Functions (1) | [`Folder`](./05-Functions) | [`Slide`](slides/functions.pdf) | [`Quiz`](quizzes/)| [`Slido`](https://app.sli.do/event/wrU4JR9FC3rph3U5nNMqko) |
-|8| 	Chapter 05: Functions (2)
+|8| 	Chapter 05: Functions (2) | [`Folder`](./05-Functions-2)  | | | [`Slido`](https://app.sli.do/event/ko1Ax93b38CYuj79op15WL) |
 |9|     Chapter 06: Pointers (1)
 |10| 	Chapter 06: Pointers (2)
 |11| 	Midterm Exam (2)
