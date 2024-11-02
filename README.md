@@ -10,9 +10,9 @@ This repository is the course materials for *Computer Programming* at National C
 |4|     Chapter 03: Program Control (2)| [`Folder1`](./03-Program_control_for) [`Folder2`](./03-Program_control_while) | [`Slide`](slides/control_2.pdf) | [`Quiz`](quizzes/w4.md) [`Ans`](quizzes/w4_ans.c)  | [`Slido`](https://app.sli.do/event/5yDqn6bchhHwQnxQ9FfmK9) |
 |5| 	Midterm Exam (1)
 |6| 	Chapter 04: Arrays | [`Folder`](./04-Arrays) | [`Slide`](slides/arrays.pdf) | [`Quiz`](quizzes/w6.md) [`Ans`](quizzes/w6_ans.c)| [`Slido`](https://app.sli.do/event/sToe6xX3QcD3W8fwZ3qeZb) |
-|7| 	Chapter 05: Functions (1) | [`Folder`](./05-Functions) | [`Slide`](slides/functions.pdf) | [`Quiz`](quizzes/)| [`Slido`](https://app.sli.do/event/wrU4JR9FC3rph3U5nNMqko) |
-|8| 	Chapter 05: Functions (2) | [`Folder`](./05-Functions-2)  | [`Slide`](slides/functions_2.pdf) | [`Quiz`](quizzes/) | [`Slido`](https://app.sli.do/event/ko1Ax93b38CYuj79op15WL) |
-|9|     Chapter 06: Pointers (1)
+|7| 	Chapter 05: Functions (1) | [`Folder`](./05-Functions) | [`Slide`](slides/functions.pdf) | [`Quiz`](quizzes/w7.md)| [`Slido`](https://app.sli.do/event/wrU4JR9FC3rph3U5nNMqko) |
+|8| 	Chapter 05: Functions (2) | [`Folder`](./05-Functions-2)  | [`Slide`](slides/functions_2.pdf) | [`Quiz`](quizzes/w8.md) | [`Slido`](https://app.sli.do/event/ko1Ax93b38CYuj79op15WL) |
+|9|     Chapter 06: Pointers (1) | [`Folder`](./06-Pointers) | [`Slide`](slides/) | [`Quiz`](quizzes/) | [`Slido`](https://app.sli.do/event/4BNCTBE5XgbJFZMjAbeZe2) |
 |10| 	Chapter 06: Pointers (2)
 |11| 	Midterm Exam (2)
 |12| 	Chapter 07: Strings (1)
