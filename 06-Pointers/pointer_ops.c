@@ -17,6 +17,4 @@ int main(void){
     printf("*ptr2: %d\n", *ptr2);
     printf("ptr2: %p\n", ptr2);
     printf("&ptr2: %p\n", &ptr2);
-    *ptr2 = -100 + *ptr1;
-    printf("*ptr2: %d\n", *ptr2);
 }
