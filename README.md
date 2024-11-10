@@ -12,7 +12,7 @@ This repository is the course materials for *Computer Programming* at National C
 |6| 	Chapter 04: Arrays | [`Folder`](./04-Arrays) | [`Slide`](slides/arrays.pdf) | [`Quiz`](quizzes/w6.md) [`Ans`](quizzes/w6_ans.c)| [`Slido`](https://app.sli.do/event/sToe6xX3QcD3W8fwZ3qeZb) |
 |7| 	Chapter 05: Functions (1) | [`Folder`](./05-Functions) | [`Slide`](slides/functions.pdf) | [`Quiz`](quizzes/w7.md)| [`Slido`](https://app.sli.do/event/wrU4JR9FC3rph3U5nNMqko) |
 |8| 	Chapter 05: Functions (2) | [`Folder`](./05-Functions-2)  | [`Slide`](slides/functions_2.pdf) | [`Quiz`](quizzes/w8.md) | [`Slido`](https://app.sli.do/event/ko1Ax93b38CYuj79op15WL) |
-|9|     Chapter 06: Pointers (1) | [`Folder`](./06-Pointers) | [`Slide`](slides/pointers.pdf) | [`Quiz`](quizzes/w9.md) | [`Slido`](https://app.sli.do/event/4BNCTBE5XgbJFZMjAbeZe2) |
+|9|     Chapter 06: Pointers (1) | [`Folder`](./06-Pointers) | [`Slide`](slides/pointers.pdf) | [`Quiz`](quizzes/w9.md) [`Ans`](quizzes/w9_ans.c) | [`Slido`](https://app.sli.do/event/4BNCTBE5XgbJFZMjAbeZe2) |
 |10| 	Chapter 06: Pointers (2) | [`Folder`](./06-Pointers-arrays) | | [`Quiz`](quizzes/) |[`Slido`](https://app.sli.do/event/ct3SjZG3qrSC4Dig5LEXNP) |
 |11| 	Midterm Exam (2)
 |12| 	Chapter 07: Strings (1)
