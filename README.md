@@ -15,7 +15,7 @@ This repository is the course materials for *Computer Programming* at National C
 |9|     Chapter 06: Pointers (1) | [`Folder`](./06-Pointers) | [`Slide`](slides/pointers.pdf) | [`Quiz`](quizzes/w9.md) [`Ans`](quizzes/w9_ans.c) | [`Slido`](https://app.sli.do/event/4BNCTBE5XgbJFZMjAbeZe2) |
 |10| 	Chapter 06: Pointers (2) | [`Folder`](./06-Pointers-arrays) | [`Slide`](slides/pointers_arrays.pdf) | [`Quiz`](quizzes/) |[`Slido`](https://app.sli.do/event/ct3SjZG3qrSC4Dig5LEXNP) |
 |11| 	Midterm Exam (2)
-|12| 	Chapter 07: Strings (1)
+|12| 	Chapter 07: Strings (1) | [`Folder`](./07-Strings) | [`Slide`](slides/strings.pdf) | [`Quiz`](quizzes/) | [`Slido`](https://app.sli.do/event/ct3SjZG3qrSC4Dig5LEXNP) |
 |13| 	Chapter 07: Strings (2)
 |14| 	Chapter 08: Structures
 |15| 	Chapter 09: Memory Management
