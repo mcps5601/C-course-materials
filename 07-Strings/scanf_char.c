@@ -4,5 +4,5 @@ int main(void){
     scanf("%c", &c);
     printf("%c\n", c);
     printf("Decimal: %d\n", c);
-    printf("Hexdecimal: %x\n", c);
+    printf("Hexadecimal: %x\n", c);
 }
