@@ -28,6 +28,8 @@ This repository is the course materials for *Computer Programming* at National C
 | ---- | ---- | -------- | ----------- |
 | 3 | 出國天數計算器 | [Assignment 1](./assignments/assignment1.pdf) | 2024/10/13 23:59|
 | 7 | 大數加減 | [Assignment 2](./assignments/assignment2.md) | 2024/11/08 23:59|
+| 10 | 一元陣列交集 | [Assignment 3](./assignments/assignment3.md) | 2024/11/28 23:59|
+| 13 | | | |
 
 ## Syllabus
 ![syllabus](./slides/syllabus.png)
