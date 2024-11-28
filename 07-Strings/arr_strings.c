@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdio.h>
 int print_str(char str[]){
     for (int i = 0; i < 10; i++){
         if (str[i] == '\0') {
