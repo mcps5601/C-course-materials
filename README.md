@@ -17,7 +17,7 @@ This repository is the course materials for *Computer Programming* at National C
 |11| 	Midterm Exam (2)
 |12| 	Chapter 07: Strings (1) | [`Folder`](./07-Strings) | [`Slide`](slides/strings.pdf) | [`Quiz1`](quizzes/w12_1.md) [`Quiz2`](quizzes/w12_2.md) | [`Slido`](https://app.sli.do/event/8w7sDpBbLeBoyRs28VpuvE) |
 |13| 	Chapter 07: Strings (2) | [`Folder`](./07-Strings-2) | [`Slide`](slides/strings_2.pdf) | | [`Slido`](https://app.sli.do/event/ncEWC6tvRaCMUsh1ayxXdc) |
-|14| 	Chapter 08: Structures
+|14| 	Chapter 08: Structures | [`Folder`](./08-Structures) | | | [`Slido`](https://app.sli.do/event/eJKVBio1z5UzFZHXH3YNGo) |
 |15| 	Chapter 09: Memory Management
 |16| 	Final Exam
 |17| 	Chapter 10: File I/O
