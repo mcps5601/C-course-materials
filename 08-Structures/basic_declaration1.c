@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void) {
-    struct data {
+    struct data
+    {
         char name[50];
         float grade;
     };
