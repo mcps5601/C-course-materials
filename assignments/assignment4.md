@@ -41,8 +41,42 @@ longexampleCprogramming
 - Explanation:
     - The sequence of non-space characters does not match.
 
+### Example 3 (wrong):
+- Input:
+```
+longaamp
+longexampleCprogramming
+```
+- Output:
+```
+0
+```
+- Explanation:
+    - There are repeated characters in s, but they are not in the same order in t.
+
+### Example 4 (correct):
+- Input:
+```
+longamping
+longexampleCprogrammmmming
+```
+- Output:
+```
+1
+```
+- Explanation:
+    - It does not matter if there are extra repeated characters in t as long as the sequence of characters in s can show up in t in the same order.
+
 ## Scoring (Total 100):
 - Code correctness: 60%
 - Report: 40%
     - Clear comments in the code explaining key logic.
     - A summary of how the problem was solved, including key decisions or challenges encountered.
+
+## Submission:
+Upload your code and report as a zip file (`student_id_name_hw4.zip`) containing the following files:
+- code: `student_id_name_hw4.c`
+- report: `student_id_name_hw4.pdf` (.md, .docx are also acceptable)
+- **Example filenames**: `1234567890_林英嘉_hw4.zip`
+    - `1234567890_林英嘉_hw4.c`
+    - `1234567890_林英嘉_hw4.pdf`
