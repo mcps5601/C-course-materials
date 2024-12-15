@@ -17,7 +17,7 @@ int main(void){
     stuD.next = NULL;
     while (head != NULL){
         printf("Current: %p, ", head);
-        printf("%d ,", head->val);
+        printf("%d, ", head->val);
         printf("Next: %p\n", head->next);
         head = head->next;
     }
