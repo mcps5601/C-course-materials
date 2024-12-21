@@ -16,9 +16,9 @@ This repository is the course materials for *Computer Programming* at National C
 |10| 	Chapter 06: Pointers (2) | [`Folder`](./06-Pointers-arrays) | [`Slide`](slides/pointers_arrays.pdf) | [`Quiz`](quizzes/) |[`Slido`](https://app.sli.do/event/ct3SjZG3qrSC4Dig5LEXNP) |
 |11| 	Midterm Exam (2)
 |12| 	Chapter 07: Strings (1) | [`Folder`](./07-Strings) | [`Slide`](slides/strings.pdf) | [`Quiz1`](quizzes/w12_1.md) [`Quiz2`](quizzes/w12_2.md) | [`Slido`](https://app.sli.do/event/8w7sDpBbLeBoyRs28VpuvE) |
-|13| 	Chapter 07: Strings (2) | [`Folder`](./07-Strings-2) | [`Slide`](slides/strings_2.pdf) | | [`Slido`](https://app.sli.do/event/ncEWC6tvRaCMUsh1ayxXdc) |
-|14| 	Chapter 08: Structures | [`Folder`](./08-Structures) | [`Slide`](slides/structures.pdf) | | [`Slido`](https://app.sli.do/event/eJKVBio1z5UzFZHXH3YNGo) |
-|15| 	Chapter 09: Memory Management | [`Folder`](./09-DynamicMemoryAlloc) | [`Slide`](slides/dynamic_memory_alloc.pdf) | | [`Slido`](https://app.sli.do/event/4jYSgLuctxoC9k5eKb4PS2) |
+|13| 	Chapter 07: Strings (2) | [`Folder`](./07-Strings-2) | [`Slide`](slides/strings_2.pdf) | [`Quiz`](quizzes/w13.md) | [`Slido`](https://app.sli.do/event/ncEWC6tvRaCMUsh1ayxXdc) |
+|14| 	Chapter 08: Structures | [`Folder`](./08-Structures) | [`Slide`](slides/structures.pdf) | [`Quiz`](quizzes/w14.md) | [`Slido`](https://app.sli.do/event/eJKVBio1z5UzFZHXH3YNGo) |
+|15| 	Chapter 09: Memory Management | [`Folder`](./09-DynamicMemoryAlloc) | [`Slide`](slides/dynamic_memory_alloc.pdf) | [`Quiz`](quizzes/w15.md)  | [`Slido`](https://app.sli.do/event/4jYSgLuctxoC9k5eKb4PS2) |
 |16| 	Final Exam
 |17| 	Chapter 10: File I/O
 |18| 	Chapter 11: C++
@@ -29,7 +29,7 @@ This repository is the course materials for *Computer Programming* at National C
 | 3 | 出國天數計算器 | [Assignment 1](./assignments/assignment1.pdf) | 2024/10/13 23:59|
 | 7 | 大數加減 | [Assignment 2](./assignments/assignment2.md) | 2024/11/08 23:59|
 | 10 | 一元陣列交集 | [Assignment 3](./assignments/assignment3.md) | 2024/11/28 23:59|
-| 13 | | | |
+| 13 | 子序列檢查 |  [Assignment 4](./assignments/assignment4.md) | 2024/12/20 23:59 |
 
 ## Syllabus
 ![syllabus](./slides/syllabus.png)
