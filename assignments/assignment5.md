@@ -1,7 +1,7 @@
 # Merging Binary Files and Sorting
 
 ## Task Description:
-Given two binary files, `file1.bin` and `file2.bin`, write a program that merges the two files and sorts the contents in ascending order. You can check the content of `file1.bin` and `file2.bin` via:
+Given two binary files, `file1.bin` and `file2.bin`, write a program that merges the two files and sorts the contents in an ascending order. You can check the content of `file1.bin` and `file2.bin` via:
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -34,6 +34,12 @@ After running the code above, you will see the content of `file1.bin` and `file2
 90 70 30 100 50 
 60 20 80 10 40
 ```
+As we can see, both `file1.bin` and `file2.bin` contain 5 integers.
+Therefore, your task is to:
+1. Merge these integers
+2. Sort them in an ascending order
+3. Write the sorted integers to **a new binary file**, `sorted_output.bin`.
+
 ## Expected output of this assignment:
 ```
 10 20 30 40 50 60 70 80 90 100
