@@ -15,7 +15,7 @@ int main(void) {
     int numbers2[MAX];
     int size1, size2;
 
-    // read file1.bin to numbers1
+    // read files to the arrays
     FILE *readFile1 = fopen(filename1, "rb");
     FILE *readFile2 = fopen(filename2, "rb");
     size1 = fread(numbers1, sizeof(int), MAX, readFile1);
