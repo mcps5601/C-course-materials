@@ -30,6 +30,7 @@ This repository is the course materials for *Computer Programming* at National C
 | 7 | 大數加減 | [Assignment 2](./assignments/assignment2.md) | 2024/11/08 23:59|
 | 10 | 一元陣列交集 | [Assignment 3](./assignments/assignment3.md) | 2024/11/28 23:59|
 | 13 | 子序列檢查 |  [Assignment 4](./assignments/assignment4.md) | 2024/12/20 23:59 |
+| 17 | 合併排序二進位檔案 | [Assignment 5](./assignments/assignment5.md) | 2025/01/08 23:59 |
 
 ## Syllabus
 ![syllabus](./slides/syllabus.png)
