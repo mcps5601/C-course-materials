@@ -46,12 +46,19 @@ Therefore, your task is to:
 ```
 This output should be written to a new binary file, `sorted_output.bin`, which you need to create in your code.
 
+## Requirements:
+1. The program should read the content of `file1.bin` and `file2.bin`.
+2. The program should merge the integers from `file1.bin` and `file2.bin`.
+3. The program should contain a function to sort the integers in an ascending order.
+4. The program should write the sorted integers to a new binary file, `sorted_output.bin`.
+5. The program should check if the files are opened successfully.
+6. The program should contain lines for closing the files.
+
 ## Scoring (Total 100):
 - Code correctness: 60%
 - Report: 40%
     - Clear comments in the code explaining key logic.
     - A summary of how the problem was solved, including key decisions or challenges encountered.
-
 
 ## Submission:
 Upload your code and report as a zip file (`student_id_hw5.zip`) containing the following **three** files:
