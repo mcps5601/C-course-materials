@@ -22,7 +22,7 @@ int main(void){
     size_t bytes_read;
 
     while ((bytes_read = fread(str, sizeof(char), MAX, fptr)) > 0){
-        num_of_chars += bytes_read;
+        num_of_chars += bytes_read; // TODO: bytes_read
         if (num_of_chars < MAX){
             str[num_of_chars] = '\0';
         }

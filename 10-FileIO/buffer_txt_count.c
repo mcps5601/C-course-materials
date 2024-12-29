@@ -7,7 +7,7 @@ int main(void){
 
     fptr = fopen("hello.txt", "r");
     if (fptr != NULL){
-        while ((ch = getc(fptr)) != EOF){
+        while ((ch = fgetc(fptr)) != EOF){
             printf("%c", ch);
             count++;
         }

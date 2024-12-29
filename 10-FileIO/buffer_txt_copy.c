@@ -1,18 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#define MAX 100
 
 int main(void){
-    FILE *fptr;
-    char str[MAX], ch;
-    int i = 0;
-    fptr = fopen("hello.txt", "a");
-    putc('\n', fptr);
+    FILE *fptr1, *fptr2;
+    char ch;
+    int count = 0;
 
-    printf("Please enter a string: ");
-    fgets(str, MAX, stdin);    
-    fwrite(str, sizeof(char), strlen(str), fptr);
-    fclose(fptr);
-    printf("Data written to file\n");
+    fptr1 = fopen("hello.txt", "r");
+    fptr2 = fopen("hello_copy.txt", "w");
+    if (fptr1 != NULL && fptr2 != NULL){
+        while ((ch = fgetc(fptr1)) != EOF){
+            fputc(ch, fptr2);
+            count++;
+        }
+        fclose(fptr1);
+        fclose(fptr2);
+        printf("Num of characters: %d\n", count);
+    }
+    else{
+        printf("Failed to open file\n");
+    }
 }
