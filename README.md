@@ -20,7 +20,7 @@ This repository is the course materials for *Computer Programming* at National C
 |14| 	Chapter 08: Structures | [`Folder`](./08-Structures) | [`Slide`](slides/structures.pdf) | [`Quiz`](quizzes/w14.md) | [`Slido`](https://app.sli.do/event/eJKVBio1z5UzFZHXH3YNGo) |
 |15| 	Chapter 09: Memory Management | [`Folder`](./09-DynamicMemoryAlloc) | [`Slide`](slides/dynamic_memory_alloc.pdf) | [`Quiz`](quizzes/w15.md)  | [`Slido`](https://app.sli.do/event/4jYSgLuctxoC9k5eKb4PS2) |
 |16| 	Final Exam
-|17| 	Chapter 10: File I/O
+|17| 	Chapter 10: File I/O | [`Folder`](./10-FileIO) | [`Slide`](slides/fileIO.pdf) | |
 |18| 	Chapter 11: C++
 
 ## Assignments

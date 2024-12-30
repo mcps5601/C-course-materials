@@ -27,7 +27,7 @@ int main(void){
             str[num_of_chars] = '\0';
         }
         // printf("%s", str);
-        print_str(str, num_of_chars);
+        print_str(str, num_of_chars+1);
     }
     fclose(fptr);
 }

@@ -10,7 +10,7 @@ void write_binary(const char *filename, int numbers[], int size) {
         perror("無法開啟檔案進行寫入");
     }
 
-    ssize_t bytes_written = write(fd, numbers, size * sizeof(int));
+    size_t bytes_written = write(fd, numbers, size * sizeof(int));
     if (bytes_written != size * sizeof(int)) {
         perror("寫入檔案時發生錯誤");
         close(fd);
