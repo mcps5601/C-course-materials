@@ -13,14 +13,18 @@ class Window {
             return width * height;
         }
         void print_area(void) {
-            cout << "Area of window " << id << " is: " << area() << endl;
+            cout << "Area of window ";
+            cout << id << " is: " << area() << endl;
+        }
+        void set_data(char i, int w, int h) {
+            id = i;
+            width = w;
+            height = h;
         }
 };
 
 int main(void){
     Window w1;
-    w1.id = 'A'; // Error! `id` cannot be accessed (private).
-    w1.width = 10; // Error! `width` cannot be accessed (private).
-    w1.height = -20; // Error! `height` cannot be accessed (private).
+    w1.set_data('A', 10, 20);
     w1.print_area();
 }

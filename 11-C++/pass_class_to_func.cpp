@@ -11,29 +11,18 @@ class Window {
         int area(void) {
             return width * height;
         }
-        void print_area(void) {
-            cout << "Area of window ";
-            cout << id << " is: " << area() << endl;
-        }
         void set_data(char i, int w, int h) {
             id = i;
             width = w;
             height = h;
         }
-        void set_data(char i) {
-            id = i;
-        }
-        void set_data(int w, int h) {
-            width = w;
-            height = h;
-        }
 };
-
+void print_area(Window w) {
+    cout << "Area of window ";
+    cout << w.id << " is: " << w.area() << endl;
+}
 int main(void){
-    Window w1, w2;
+    Window w1;
     w1.set_data('A', 10, 20);
-    w2.set_data('B');
-    w2.set_data(30, 40);
-    w1.print_area();
-    w2.print_area();
+    print_area(w1);
 }

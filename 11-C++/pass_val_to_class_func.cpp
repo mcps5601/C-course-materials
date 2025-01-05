@@ -12,7 +12,8 @@ class Window {
             return width * height;
         }
         void print_area(void) {
-            cout << "Area of window " << id << " is: " << area() << endl;
+            cout << "Area of window ";
+            cout << id << " is: " << area() << endl;
         }
         void set_data(char i, int w, int h) {
             id = i;
