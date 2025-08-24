@@ -7,7 +7,7 @@ int main() {
     while (input_number > 0) {
         digit = input_number % 10; // Extract the last digit
         if (digit_seen[digit] == 1) {
-            printf("Repeated digit found!!");
+            printf("Repeated");
             break;
         }
         else
@@ -15,5 +15,5 @@ int main() {
         input_number /= 10; // Remove the last digit from the input number
     }
     if (input_number == 0)
-        printf("No repeated digit!!");
+        printf("Not repeated");
 }
